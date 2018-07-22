@@ -23,7 +23,6 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-plumber": "^1.2.0",
-    "node-sass": "^4.9.2",
     "pug": "^2.0.3"
   }
 }
