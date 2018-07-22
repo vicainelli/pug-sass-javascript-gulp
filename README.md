@@ -1,4 +1,4 @@
-Pug + Sass + Javascript + Gulp
+# Pug + Sass + Javascript + Gulp
 
 ### Install dependencies
 
