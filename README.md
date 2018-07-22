@@ -1,5 +1,7 @@
 # Pug + Sass + Javascript + Gulp
 
+[![License][license-badge]][license-url]
+
 ### Install dependencies
 
 `yarn`
