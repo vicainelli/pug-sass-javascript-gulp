@@ -1,0 +1,29 @@
+{
+  "name": "pug-sass-javascript-gulp",
+  "version": "1.0.0",
+  "description": "Pug + Sass + Javascript + Gulp",
+  "main": "index.js",
+  "homepage": "https://github.com/vicainelli/pug-sass-javascript-gulp#readme",
+  "keywords": [
+    "node",
+    "pug",
+    "gulp",
+    "sass",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vicainelli/pug-sass-javascript-gulp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vicainelli/pug-sass-javascript-gulp/issues"
+  },
+  "author": "Vinicius Cainelli <vicainelli@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.2.0",
+    "node-sass": "^4.9.2",
+    "pug": "^2.0.3"
+  }
+}
