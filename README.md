@@ -1,6 +1,6 @@
 # Pug + Sass + Javascript + Gulp
 
-[![License][license-badge]][license-url]
+![https://img.shields.io/github/license/vicainelli/pug-sass-javascript-gulp.svg](LICENSE)
 
 ### Install dependencies
 
