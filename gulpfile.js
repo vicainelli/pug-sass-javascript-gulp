@@ -1,7 +1,15 @@
 const gulp = require("gulp");
+const concat = require("gulp-concat");
 const plumber = require("gulp-plumber");
 const sass = require("gulp-sass");
 const pug = require('gulp-pug');
+
+// SCRIPTS
+gulp.task('scripts', () => {
+  return gulp.src(['./src/js/app.js', './src/js/components/*.js'])
+  .pipe(concat('app.js'))
+  .pipe(gulp.dest('./dist/js'));
+});
 
 // STYLES
 gulp.task('styles', () => {
